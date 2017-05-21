@@ -1,0 +1,1 @@
+﻿tf–idf, is a way of finding how important a word is to a document. The term frequency is how many times the term is in the document. The inverse document frequency implies how common or rare the term is across all documents.

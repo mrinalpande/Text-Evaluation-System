@@ -1,0 +1,1 @@
+The term frequency tf(t,d) is how many times the term is there in the document i.e. the number of times that term t occurs in document d.

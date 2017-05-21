@@ -1,0 +1,1 @@
+tf-idf, is a numerical way of finding how important a word is to a document in a collection. The term frequency tf(t,d) is how many times the term is there in the document. The inverse document frequency means whether the term is common or rare across all documents it is calculated by dividing the total number of documents by the number of documents containing the term.
