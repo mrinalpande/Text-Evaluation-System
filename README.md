@@ -12,3 +12,7 @@ scoring is done not on the existing 0/1 system but some pseudo scoring basis. Th
 1/0 model where the computer is not too harsh on the student for a human error while using the keyboard.
 
 Please Refer the Documentation Folder for all documentation regarding the approaches and workflow.
+
+Contributors:
+
+https://github.com/damngamerz 
