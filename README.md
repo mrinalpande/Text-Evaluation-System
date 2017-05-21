@@ -13,6 +13,10 @@ scoring is done not on the existing 0/1 system but some pseudo scoring basis. Th
 
 Please Refer the Documentation Folder for all documentation regarding the approaches and workflow.
 
-Contributors:
 
-https://github.com/damngamerz 
+# Contributors:
+* https://github.com/mrinalpande
+* https://github.com/damngamerz
+* https://github.com/jainranks21
+* https://github.com/pushkarnagpal
+* https://github.com/dinesh144
