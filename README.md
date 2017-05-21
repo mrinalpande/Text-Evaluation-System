@@ -11,6 +11,4 @@ Our aim was to create a text evaluation system which can conduct fair scoring. W
 scoring is done not on the existing 0/1 system but some pseudo scoring basis. This pseudo scoring is much better than the
 1/0 model where the computer is not too harsh on the student for a human error while using the keyboard.
 
-## Approaches
-
-### Approach 1
+Please Refer the Documentation Folder for all documentation regarding the approaches and workflow.
